@@ -1,0 +1,50 @@
+ /* *{
+    background-color: cornsilk;
+}
+h1{
+    color: crimson;
+    font-size: 30px;
+}
+.container{
+    text-decoration: solid;
+}
+.skills{
+    text-align: justify;
+/* } */
+.profile img {
+    position: absolute;
+    top: 20%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    width: 200px; /* Set the desired width */
+    height: auto; 
+    }
+.footer {
+    text-align: center;
+}
+
+
+   /* Example CSS for a consistent color scheme */
+.container {
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  .welcome {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .skills, .project {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  
+   
+  
